@@ -1,0 +1,26 @@
+
+header section {
+    padding: 30px;
+    min-height: 150px;
+}
+header section.left {
+    width: 700px;
+    display: inline-block;
+
+}
+header section.left span,
+header section.left button,
+header section.left input {
+    font-size: 2em;
+    font-weight: bold;
+    margin-right: 10px;
+}
+header section.left input {
+    font-size: 1.5em;
+    width: 80px;
+}
+img{
+
+    margin-left:850px;
+}
+
